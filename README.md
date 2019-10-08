@@ -1,1 +1,1 @@
-# java-library-skeleton
+# skeleton-java-library
